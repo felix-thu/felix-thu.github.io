@@ -5,10 +5,10 @@
 <div class='paper-box-text' markdown="1">
 
 [Robust Policy Expansion for Offline-to-Online RL
-under Diverse Data Corruption](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+under Diverse Data Corruption](https://arxiv.org/pdf/2509.24748) \\
 **Longxiang He**, Deheng Ye, Junbo Tan, Xueqian Wang, Li Shen 
 
-[**TLDR**](https://speechresearch.github.io/fastspeech/) 
+[**TLDR**](https://arxiv.org/pdf/2509.24748) 
   - We propose RPEX, an Offline-to-Online method that improves the performance of offline pre-
 trained RL policies under a wide range of data corruptions.
 </div>

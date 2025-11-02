@@ -1,4 +1,4 @@
-I am currently working on world models for robotics research and taking a gap year to pursue Ph.D. opportunities. If you find my background suitable for your research group, please feel free to contact me at [longxhe@gmail.com](longxhe@gmail.com).
+I am currently taking a gap year to pursue Ph.D. opportunities. If you find my background suitable for your research group, please feel free to contact me at [longxhe@gmail.com](longxhe@gmail.com).
 
 My research primarily focuses on reinforcement learning, generative model, and optimization theory, currently, I am interested in 
 1. GenAI for RL: Leveraging diffusion models to enhance RL performance.

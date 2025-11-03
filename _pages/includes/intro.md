@@ -1,4 +1,4 @@
-**I am seeking a Ph.D. position for Fall 2026.** If my research aligns with your interests, I would be happy to email potential opportunities. If you find my background suitable for your research group, please feel free to contact me at [longxhe@gmail.com](longxhe@gmail.com).
+**I am seeking a Ph.D. position for Fall 2026.**  If you find my background suitable for your research group, please feel free to contact me at [longxhe@gmail.com](longxhe@gmail.com).
 
 My research primarily focuses on reinforcement learning, generative model, and optimization theory, currently, I am interested in 
 1. GenAI for RL: Leveraging diffusion models to enhance RL performance.

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Longxiang He (何龙祥)"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -19,4 +19,4 @@ redirect_from:
 
 {% include_relative includes/honers.md %}
 
-{% include_relative includes/others.md %}
+{% include_relative includes/teaching.md %}

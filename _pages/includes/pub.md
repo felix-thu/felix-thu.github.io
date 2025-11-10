@@ -1,7 +1,7 @@
 # 📝 Publications
 ## Reinforcement Learning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/rpex.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/rpex.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust Policy Expansion for Offline-to-Online RL
@@ -12,7 +12,13 @@ under Diverse Data Corruption](https://arxiv.org/pdf/2509.24748) \\
   - We propose RPEX, an Offline-to-Online method that improves the performance of offline pre-
 trained RL policies under a wide range of data corruptions.
 </div>
-</div>
+</div> -->
+[Robust Policy Expansion for Offline-to-Online RL
+under Diverse Data Corruption](https://arxiv.org/pdf/2509.24748), NeurIPS 2025, **Longxiang He**, Li Shen, Junbo Tan, Xueqian Wang 
+  - **TLDR:** We propose RPEX, an Offline-to-Online method that improves the performance of offline pre-
+trained RL policies under a wide range of data corruptions.
+
+<hr>
 
 [AlignIQL: Policy Alignment in Implicit Q-Learning through Constrained Optimization
 ](https://arxiv.org/abs/2405.18187), Arxiv 2024, **Longxiang He**, Li Shen, Junbo Tan, Xueqian Wang 
